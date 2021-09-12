@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.mcd {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png');
+    background-size: cover;
+    height: 30vh;
+}
+
+.fhd {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 500;
+    padding: 15px;
+}
+
+.suipro {
+    height: 110px;
+    width: 144px;
+    margin-top: 10px;
+}
+
+.suhd {
+    color: #151765;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.suph {
+    color: #517184;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.sucd {
+    text-align: center;
+    margin: 10px;
+}
+
+.fcd {
+    padding: 15px;
+}
+
+.scd1 {
+    background-color: #151765;
+    padding: 15px;
+}
+
+.smph {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #151765;
+}
+
+.shd {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sph {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.sipro {
+    height: 110px;
+    width: 130px;
+}
+
+.mar {
+    margin-left: 5px;
+}
+
+.scd2 {
+    margin: 15px;
+}
+
+.shd1 {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #151765;
+    font-weight: bold;
+}
+
+.sph1 {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #5a7184;
+}
+
+.sph2 {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 11px;
+}
+
+.buton {
+    border-radius: 25px;
+    border-width: 0px;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 12px;
+    background-color: #151765;
+    width: 60px;
+}
+
+.ali {
+    text-align: right;
+    margin: 15px;
+}
